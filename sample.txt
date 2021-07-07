@@ -1,6 +1,5 @@
 Hi everyone,
 Good morning 
 
-This is a code repository
-This is Raj, I am doing coding.
-I am from nepal
+We are reading QA right now.
+Sometimes I hate coding.
