@@ -7,4 +7,11 @@ This is Akhilesh's first try.
 
 This is my second try.
 
+<<<<<<< HEAD
 Third try (Akhilesh).
+=======
+This is Srijan's fourth try
+
+This is Srijan's fifth try
+this is Rupa 
+>>>>>>> e068f8cadfcb5fdb9c6e2e667ab61638a48b73d5
